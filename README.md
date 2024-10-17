@@ -1,24 +1,20 @@
-# README
+# Rails Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple blog web application using Ruby on Rails
 
-Things you may want to cover:
+Adapted from:
+https://guides.rubyonrails.org/getting_started.html
 
-* Ruby version
+Usage:
 
-* System dependencies
+ * Launch via "bin/rails server" from root directory
 
-* Configuration
+ * Access via http://localhost:3000/
 
-* Database creation
+ * Authentication is as follows:
+   
+   * Username: "dhh"
+   * Password: "secret"
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 
